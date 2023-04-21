@@ -9,11 +9,15 @@ module.exports = {
 		"./src/**/*.{js,ts,jsx,tsx,mdx}",
 	],
 	theme: {
-		extend: {},
-    colors: {
-      "main": "#212421",
-      "accent": "#ea8f10",
-    }
+		extend: {
+			fontFamily: {
+				dm: ["DM Serif Display", "sans", "Georgia"],
+			},
+		},
+		colors: {
+			main: "#212421",
+			accent: "#ea8f10",
+		},
 	},
 	plugins: [],
 };
