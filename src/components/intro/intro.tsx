@@ -3,7 +3,7 @@ import { ArrowDownIcon } from "@heroicons/react/24/outline";
 export default function Intro() {
 	return (
 		<>
-			<div className="bg-main text-tan min-h-screen px-8 md:px-16 lg:px-28">
+			<div className="bg-main text-tan px-8 md:px-16 lg:px-28">
 
 				<div>
 					{/* LEFT PART */}
