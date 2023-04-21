@@ -13,10 +13,13 @@ module.exports = {
 			fontFamily: {
 				dm: ["DM Serif Display", "sans", "Georgia"],
 			},
-		},
-		colors: {
-			main: "#212421",
-			accent: "#ea8f10",
+
+			colors: {
+				main: "#212421",
+				accent: "#ea8f10",
+				tan: "#fef6e6",
+				greenish: "#7e9080",
+			},
 		},
 	},
 	plugins: [],

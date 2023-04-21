@@ -8,8 +8,8 @@ import Intro from "@/components/intro/intro";
 
 export default function Home() {
 	return (
-		<>
+		<div className="">
 			<Intro/>
-		</>
+		</div>
 	);
 }
