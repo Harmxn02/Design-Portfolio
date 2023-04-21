@@ -6,6 +6,6 @@ A Design Portfolio-styled webpage using Tailwind CSS. Inspired by a StyleShout t
 
 ## This is what it looks like
 
-![image](./captures/21-4-2023.jpeg)
+![capture](./captures/21-4-2023.jpeg)
 
 Inspiration: https://styleshout.com/free-templates/monica/
