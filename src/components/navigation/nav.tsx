@@ -1,6 +1,6 @@
 export default function Nav() {
 	return (
-		<div className=" sticky top-0 z-10 pt-12 text-white flex justify-between flex-col md:flex-row md:items-center">
+		<div className="px-8 md:px-16 lg:px-28 bg-main sticky top-0 z-10 pt-12 text-white flex justify-between flex-col md:flex-row md:items-center">
             <div>
                 <h1 className="font-dm text-tan text-3xl">Harman.</h1>
                 <div className="flex mt-4 sm:mt-0 gap-4 flex-wrap">
