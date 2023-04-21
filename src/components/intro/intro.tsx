@@ -8,7 +8,7 @@ export default function Intro() {
 				<div>
 					{/* LEFT PART */}
 					<div className="mt-36">
-						<h2 className="text-2xl">Hello, I&apos;m Harman</h2>
+						<h2 className="text-2xl pb-4">Hello, I&apos;m Harman</h2>
 						<p className=" text-5xl sm:text-6xl md:text-6xl lg:text-7xl xl:text-8xl font-dm">
 							I create marketing <br /> strategies for your <br />{" "}
 							business that get <br /> results.
