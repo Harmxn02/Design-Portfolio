@@ -2,7 +2,7 @@ import { FaLinkedin } from "react-icons/fa";
 
 export default function About() {
 	return (
-		<div className="bg-main items-center text-tan min-h-screen px-8 md:px-16 lg:px-28">
+		<div className="bg-main items-center text-tan min-h-screen mb-64 px-8 md:px-16 lg:px-28">
 			<div className="lg:grid lg:grid-cols-2 pt-72 gap-4">
 				<div id="about-header">
 					<h2 className="text-2xl pb-4 text-accent">About</h2>
