@@ -6,8 +6,8 @@ export default function About() {
 			<div className="lg:grid lg:grid-cols-2 pt-72 gap-4">
 				<div id="about-header">
 					<h2 className="text-2xl pb-4 text-accent">About</h2>
-					<p className=" text-4xl sm:text-5xl md:text-5xl lg:text-6xl xl:text-7xl font-dm">
-						An inspiring <br /> headline about <br /> yourself.
+					<p className=" text-4xl sm:text-5xl md:text-5xl lg:text-6xl xl:text-7xl font-dm max-w-[14ch]">
+						An inspiring headline about yourself.
 					</p>
 				</div>
 				<div className="text-xl sm:text-2xl 2xl:text-3xl  max-w-[40ch] font-light leading-10">
