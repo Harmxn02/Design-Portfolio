@@ -33,9 +33,9 @@ export default function About() {
 				</a>
 			</div>
 
-			<div className="mt-64 text-white text-4xl text-center">
+			<div className="mt-64 text-white md:text-4xl text-center">
 				<p>This portfolio is not yet completed. Visit my current Portfolio here:	</p>
-				<a href="https://harmanpsingh.vercel.app/" className="text-blue-500 underline">https://harmanpsingh.vercel.app/</a>
+				<a href="https://harmanpsingh.vercel.app/" className="text-blue-500 underline">click here</a>
 			</div>
 		</div>
 	);
