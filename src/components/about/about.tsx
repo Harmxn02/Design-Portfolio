@@ -32,6 +32,11 @@ export default function About() {
 					LinkedIn!
 				</a>
 			</div>
+
+			<div className="mt-64 text-white text-4xl text-center">
+				<p>This portfolio is not yet completed. Visit my current Portfolio here:	</p>
+				<a href="https://harmanpsingh.vercel.app/" className="text-blue-500 underline">https://harmanpsingh.vercel.app/</a>
+			</div>
 		</div>
 	);
 }
