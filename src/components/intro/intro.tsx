@@ -19,7 +19,7 @@ export default function Intro() {
 						<div className="border rounded-3xl border-accent p-3">
 							<ArrowDownIcon className="h-4" />
 						</div>
-						<a href="" className="text-xl font-light">
+						<a href="#ABOUT" className="text-xl font-light">
 							Scroll for more
 						</a>
 					</div>
