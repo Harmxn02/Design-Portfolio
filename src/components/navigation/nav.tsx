@@ -4,10 +4,10 @@ export default function Nav() {
             <div>
                 <h1 className="font-dm text-tan text-3xl">Harman.</h1>
                 <div className="flex mt-4 sm:mt-0 gap-4 flex-wrap">
-                    <a className="text-greenish" href="#About">About</a>
-                    <a className="text-greenish" href="#Services">Services</a>
-                    <a className="text-greenish" href="#Journal">Journal</a>
-                    <a className="text-greenish" href="#Contact">Contact</a>
+                    <a className="text-greenish hover:text-white transition duration-500" href="#ABOUT">About</a>
+                    <a className="text-greenish hover:text-white transition duration-500" href="#Services">Services</a>
+                    <a className="text-greenish hover:text-white transition duration-500" href="#Journal">Journal</a>
+                    <a className="text-greenish hover:text-white transition duration-500" href="#Contact">Contact</a>
                 </div>
             </div>
             <div className="hidden md:inline">
