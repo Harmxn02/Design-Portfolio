@@ -26,7 +26,7 @@ export default function About() {
 					href="https://www.linkedin.com/in/harmanpnahal/"
 					target="_blank"
 					rel="noreferrer"
-					className="flex items-center justify-center text-sm md:text-lg"
+					className="flex items-center justify-center text-main text-sm md:text-lg"
 				>
 					<FaLinkedin className="mr-4 text-3xl" /> Find out more on my
 					LinkedIn!
