@@ -12,6 +12,7 @@ module.exports = {
 		extend: {
 			fontFamily: {
 				dm: ["DM Serif Display", "sans", "Georgia"],
+				ubuntu: ["Ubuntu", "sans", "Georgia"],
 			},
 
 			colors: {

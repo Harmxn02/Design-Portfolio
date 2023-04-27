@@ -10,7 +10,7 @@ export default function About() {
 						An inspiring headline about yourself.
 					</p>
 				</div>
-				<div className="text-xl sm:text-2xl 2xl:text-3xl  max-w-[40ch] font-light leading-10">
+				<div className="text-xl sm:text-2xl 2xl:text-4xl font-ubuntu max-w-[40ch] font-light leading-10">
 					<p className="pt-12">
 						I&apos;m a second-year Computer Science major,
 						specializing in Artificial Intelligence.
@@ -26,16 +26,16 @@ export default function About() {
 					href="https://www.linkedin.com/in/harmanpnahal/"
 					target="_blank"
 					rel="noreferrer"
-					className="flex items-center justify-center text-main text-sm md:text-lg"
+					className="flex items-center justify-center text-main text-sm md:text-lg font-ubuntu"
 				>
 					<FaLinkedin className="mr-4 text-3xl" /> Find out more on my
 					LinkedIn!
 				</a>
 			</div>
 
-			<div className="mt-64 text-white md:text-4xl text-center">
-				<p>This portfolio is not yet completed. Visit my current Portfolio here:	</p>
-				<a href="https://harmanpsingh.vercel.app/" title="My Current Portfolio" className="text-blue-500 underline">My Current Portfolio</a>
+			<div className="mt-64 text-white font-ubuntu font-bold  md:text-4xl text-center">
+				<p>This portfolio is not yet completed. Visit <a href="https://harmanpsingh.vercel.app/" title="My Current Portfolio" className="text-blue-500 hover:animate-pulse underline underline-offset-4">my current Portfolio</a> here	</p>
+				
 			</div>
 		</div>
 	);

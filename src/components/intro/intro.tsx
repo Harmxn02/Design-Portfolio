@@ -8,7 +8,7 @@ export default function Intro() {
 				<div>
 					{/* LEFT PART */}
 					<div className="mt-36">
-						<h2 className="text-2xl pb-4">Hello, I&apos;m Harman</h2>
+						<h2 className="text-2xl pb-4 font-ubuntu">Hello, I&apos;m Harman</h2>
 						<p className=" text-4xl sm:text-6xl md:text-6xl lg:text-7xl xl:text-8xl font-dm max-w-[17ch]">
 							I create websites and ML models on the internet
 						</p>
@@ -19,7 +19,7 @@ export default function Intro() {
 						<div className="border rounded-3xl border-accent p-3">
 							<ArrowDownIcon className="h-4" />
 						</div>
-						<a href="#ABOUT" className="text-xl font-light">
+						<a href="#ABOUT" className="text-xl font-light font-ubuntu">
 							Scroll for more
 						</a>
 					</div>
