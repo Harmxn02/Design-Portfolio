@@ -3,14 +3,14 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 // components
-import Nav from "@/components/navigation/nav";
+import Navigation from "@/components/navigation/navigation";
 import Intro from "@/components/intro/intro";
 import About from "@/components/about/about";
 
 export default function Home() {
 	return (
 		<div className="">
-			<Nav />
+			<Navigation />
 			<Intro />
 			<About />
 		</div>
