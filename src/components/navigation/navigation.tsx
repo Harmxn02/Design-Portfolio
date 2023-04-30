@@ -40,7 +40,7 @@ export default function Navigation() {
 					</a>
 					<Popover.Group className="hidden lg:flex lg:gap-x-4 font-ubuntu">
 						<a
-							href="#"
+							href="#ABOUT"
 							className="text-greenish hover:text-white transition duration-500"
 						>
 							About
